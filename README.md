@@ -6,13 +6,5 @@
 - Django 3.2
 
 ### 需求
-針對網站（https://dailyview.tw/），設計4隻api，包含：新增、刪除、修改、取得熱門新聞的文章
-
-### 資料欄位
-* Title
-* content
-* url
-* datetime
-* tag
-
-### 如何使用
+針對網站（https://dailyview.tw/）
+，設計4隻api，包含：新增、刪除、修改、取得熱門新聞的文章
