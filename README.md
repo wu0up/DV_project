@@ -15,6 +15,7 @@
 ### 使用資料
 使用熱門文章區塊中標記'/Popular/'的資料，<br>
 資料表欄位：url_id(部分url, "/Popular/Detail/13708"), title（標題), date(文章發布日期）, content(文章內容）<br>
+資料是使用get_news.py從https://dailyview.tw/爬下來後，存到table-myproject_news<br>
 
 ### 操作方式
 先到http://35.201.189.190/api/token/
